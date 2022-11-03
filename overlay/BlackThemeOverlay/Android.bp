@@ -1,0 +1,6 @@
+runtime_resource_overlay {
+    name: "BlackThemeOverlay",
+    theme: "BlackTheme",
+    product_specific: true,
+    sdk_version: "current",
+}
